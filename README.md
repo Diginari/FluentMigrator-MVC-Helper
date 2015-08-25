@@ -10,7 +10,7 @@ Install the FluentMigrator MVC Helper
 
 ## Usage
 
-Once the MVC project is published, run the FluentMigratorHelper.exe inside the `Migrator` folder and follow the on-screen instructions
+Once the MVC project is published, run the `FluentMigratorHelper.exe` inside the `Migrator` folder and follow the on-screen instructions
 
 ## Contributing
 
