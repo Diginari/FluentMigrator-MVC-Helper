@@ -6,7 +6,7 @@ This is a helper console which will help with the <a href="https://github.com/sc
 
 Install the FluentMigrator MVC Helper
 
-1. `PM> Install-Package diginari-fluentmigrator-mvc-helper`
+1. `PM> Install-Package fluentmigrator-mvc-helper`
 
 ## Usage
 
