@@ -7,7 +7,7 @@
     <ProjectGuid>{B2B8E174-7A9F-40B5-AE83-917FCD58A6E5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FluentMigratorHelper</RootNamespace>
+    <RootNamespace>Diginari.FluentMigratorHelper</RootNamespace>
     <AssemblyName>FluentMigratorHelper</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
