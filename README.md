@@ -4,18 +4,13 @@ This is a helper console which will help with the <a href="https://github.com/sc
 
 ## Installation
 
-First install the FluentMigrator and the FluentMigrator.Tools
-
-1. `PM> Install-Package FluentMigrator`
-2. `PM> Install-Package FluentMigrator.Tools`
-
-Then install the FluentMigrator MVC Helper
+Install the FluentMigrator MVC Helper
 
 1. `PM> Install-Package diginari-fluentmigrator-mvc-helper`
 
 ## Usage
 
-Once the MVC project is published, run the FluentMigratorHelper.exe and follow the on-screen instructions
+Once the MVC project is published, run the FluentMigratorHelper.exe inside the `Migrator` folder and follow the on-screen instructions
 
 ## Contributing
 
